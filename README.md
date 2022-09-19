@@ -6,7 +6,7 @@
 
 ## Lessons Learned
 
-In this app I learned how tow work with elements: 
+In this app I learned how to work with elements: 
 
 - UISegmentedControl
 - UISlider
